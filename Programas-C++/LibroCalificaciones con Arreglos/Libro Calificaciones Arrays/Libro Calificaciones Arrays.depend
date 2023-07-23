@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686861318 source:d:\users\gamaliel\documents\programacion\c++\practicas\arreglos\librocalificaciones con arreglos\libro calificaciones arrays\main.cpp
+	"LibroCalificaciones.h"
+
+1686861483 d:\users\gamaliel\documents\programacion\c++\practicas\arreglos\librocalificaciones con arreglos\libro calificaciones arrays\librocalificaciones.h
+	<string>
+
+1686862458 source:d:\users\gamaliel\documents\programacion\c++\practicas\arreglos\librocalificaciones con arreglos\libro calificaciones arrays\librocalificaciones.cpp
+	<iostream>
+	<iomanip>
+	"LibroCalificaciones.h"
+
